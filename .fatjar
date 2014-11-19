@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sat Aug 31 17:24:33 CEST 2013
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=PinkPonk_fat.jar
+manifest.mergeall=true
+manifest.mainclass=MojaGra
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
